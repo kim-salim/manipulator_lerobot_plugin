@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: lerobot_teleoperator_openmanipulator_x
+Version: 0.1.0
+Summary: LeRobot plugin for a custom OpenManipulator-X leader teleoperator
+Requires-Python: >=3.12
+Requires-Dist: lerobot>=0.5.1
+Requires-Dist: dynamixel-sdk<3.9.0,>=3.7.31

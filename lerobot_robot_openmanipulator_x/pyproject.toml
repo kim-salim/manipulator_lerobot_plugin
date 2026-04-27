@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lerobot_robot_openmanipulator_x"
+version = "0.1.0"
+description = "LeRobot plugin for a custom OpenManipulator-X follower robot"
+requires-python = ">=3.12"
+dependencies = [
+    "lerobot>=0.5.1",
+    "dynamixel-sdk>=3.7.31,<3.9.0",
+]
+
+[tool.setuptools]
+packages = ["lerobot_robot_openmanipulator_x"]

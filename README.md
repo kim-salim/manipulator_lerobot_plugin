@@ -34,5 +34,6 @@ pip install -e .
 cd ~/lerobot_plugins/lerobot_teleoperator_openmanipulator_x
 pip install -e .
 ```
-## Video
-https://github.com/kim-salim/Manipulator_Lerobot_Plugin/issues/2
+## Picture
+<img width="1290" height="723" alt="KakaoTalk_20260507_224844178" src="https://github.com/user-attachments/assets/82d13907-6f94-4668-8c4a-a75d6c3c63f7" />
+

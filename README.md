@@ -1,6 +1,3 @@
-
-
-```markdown
 # OpenManipulator-X LeRobot Plugin
 
 These are LeRobot plugin skeletons for a custom OpenManipulator-X follower robot and leader teleoperator.
@@ -28,6 +25,7 @@ ROBOTIS OpenManipulator-X 로봇과 LeRobot ACT 모델의 input 사양을 맞추
 
 LeRobot 가상환경에서 아래 명령어를 복사하여 실행하면 설치할 수 있습니다.
 
+```markdown
 ```bash
 cd ~/lerobot_plugins/lerobot_robot_openmanipulator_x
 pip install -e .

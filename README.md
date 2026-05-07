@@ -34,3 +34,5 @@ pip install -e .
 cd ~/lerobot_plugins/lerobot_teleoperator_openmanipulator_x
 pip install -e .
 ```
+## Video
+https://github.com/kim-salim/Manipulator_Lerobot_Plugin/issues/2
